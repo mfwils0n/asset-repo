@@ -20,7 +20,16 @@ Have an idea for a great reusable asset? Fantastic! Before you start developing,
   > * Technologies/Methods: `App Connect Enterprise (ACE)`, `ACE Toolkit`, `REST API`, `Oracle DB`, `CP4I`
   > * Summary: An ACE flow deployed on CP4I will monitor an internal Oracle database and make a POST request to a REST API external to the cluster every 2 minutes.
   > * Relevance: The client, a grocery store chain, has an internal (on prem) Oracle database that is used to maintain accurate inventory for each grocery store. The database is constantly updated through the Point-Of-Sale system every time a customer completes a transaction. The client wants their floor employees to be able to retrieve accurate inventory data through their mobile web application. The web app is external to the database, and so creating an API endpoint for it to use is a simple solution to bridge the gap.
-  > * Basis: Client work for <code> Green Grocers </code>
+  > * Basis: Client work for `Green Grocers`
+  
+### 3. Generate
+  What are you waiting for? Let's get this show on the road! Here is where you develop & document your asset.
+  
+### 4. Review
+  Time to show off what you've created. We suggest getting others' opinions on your asset, usually in the form of a live demo. If it's applicable, maybe even give people a chance to use your asset without direction. If they are successful with limited guidance from you, the creator, you've done good work.
+  
+### 5. Publish
+  Congrats, your asset is ready for the real world. Commit it to this repo and make a pull request. One of our other contributors will come along and give the final thumbs up.
     
 ## Finding Assets
 ### Directory Structure
