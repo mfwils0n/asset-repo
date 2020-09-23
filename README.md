@@ -15,6 +15,7 @@ Have an idea for a great reusable asset? Fantastic! Before you start developing,
     * Directly from client 
     * Handed down by chapter/squad lead
     * Independently drafted 
+    
   For example:
   * Technologies/Methods: `App Connect Enterprise (ACE)`, `ACE Toolkit`, `REST API`, `Oracle DB`, `CP4I`
   * Summary: An ACE flow deployed on CP4I will monitor an internal Oracle database and make a POST request to a REST API external to the cluster every 2 minutes.
