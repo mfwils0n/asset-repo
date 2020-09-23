@@ -16,11 +16,11 @@ Have an idea for a great reusable asset? Fantastic! Before you start developing,
     * Handed down by chapter/squad lead
     * Independently drafted 
     
-  For example:
-  * Technologies/Methods: `App Connect Enterprise (ACE)`, `ACE Toolkit`, `REST API`, `Oracle DB`, `CP4I`
-  * Summary: An ACE flow deployed on CP4I will monitor an internal Oracle database and make a POST request to a REST API external to the cluster every 2 minutes.
-  * Relevance: The client, a grocery store chain, has an internal (on prem) Oracle database that is used to maintain accurate inventory for each grocery store. The database is constantly updated through the Point-Of-Sale system every time a customer completes a transaction. The client wants their floor employees to be able to retrieve accurate inventory data through their mobile web application. The web app is external to the database, and so creating an API endpoint for it to use is a simple solution to bridge the gap.
-  * Basis: Client work for <code> Green Grocers </code>
+  > For example:
+  > * Technologies/Methods: `App Connect Enterprise (ACE)`, `ACE Toolkit`, `REST API`, `Oracle DB`, `CP4I`
+  > * Summary: An ACE flow deployed on CP4I will monitor an internal Oracle database and make a POST request to a REST API external to the cluster every 2 minutes.
+  > * Relevance: The client, a grocery store chain, has an internal (on prem) Oracle database that is used to maintain accurate inventory for each grocery store. The database is constantly updated through the Point-Of-Sale system every time a customer completes a transaction. The client wants their floor employees to be able to retrieve accurate inventory data through their mobile web application. The web app is external to the database, and so creating an API endpoint for it to use is a simple solution to bridge the gap.
+  > * Basis: Client work for <code> Green Grocers </code>
     
 ## Finding Assets
 ### Directory Structure
